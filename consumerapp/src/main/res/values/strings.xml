@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="nobody">No one here</string>
+    <string name="username">Username</string>
+    <string name="no_database">No database found</string>
+</resources>

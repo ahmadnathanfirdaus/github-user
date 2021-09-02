@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_hint">Enter Username</string>
+    <string name="username">Username</string>
+    <string name="settings">Settings</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="share">Share</string>
+    <string name="nobody">No one here</string>
+    <string name="reminder">Remind at 9.00</string>
+    <string name="key_reminder">reminder</string>
+</resources>
